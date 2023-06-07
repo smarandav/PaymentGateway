@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aNYZXTEU9oHldLYIvai31rHbn3WKAL+4ZGbcs6M4KeXasbBoT3Ju6VnMccugzcTMmzoPhdt7/ECxXocWMu9RNg==",
+  "success": true,
+  "projectFilePath": "/Users/smarandavladoiu/Downloads/PaymentGateway/PaymentGateway.Domain/PaymentGateway.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/smarandavladoiu/.nuget/packages/fluentresults/2.5.0/fluentresults.2.5.0.nupkg.sha512",
+    "/Users/smarandavladoiu/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/smarandavladoiu/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/smarandavladoiu/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PaymentGateway.Application/1.0.0": {
+        "dependencies": {
+          "FluentResults": "2.5.0",
+          "PaymentGateway.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PaymentGateway.Application.dll": {}
+        }
+      },
+      "FluentResults/2.5.0": {
+        "runtime": {
+          "lib/netstandard2.1/FluentResults.dll": {
+            "assemblyVersion": "2.5.0.0",
+            "fileVersion": "2.5.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "PaymentGateway.Domain/1.0.0": {
+        "dependencies": {
+          "FluentResults": "2.5.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "PaymentGateway.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentGateway.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentResults/2.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qjPwIRf1f0lHMAWPHQo2SkErIUbisjfNqv8Hem3g0qw7Q000T8cSh8H+/07sviRU63yI5XveBaJM/GrPsI2fNA==",
+      "path": "fluentresults/2.5.0",
+      "hashPath": "fluentresults.2.5.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "PaymentGateway.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

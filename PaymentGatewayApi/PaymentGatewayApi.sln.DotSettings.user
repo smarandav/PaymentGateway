@@ -1,0 +1,110 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=13ec5eb3_002D64d9_002D4bab_002D926a_002D47d141c498a6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ComponentTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1cd55ad6_002Db254_002D43cd_002D886b_002D22ddeb7d3e2f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithExpiredCardRequest_Returns_400 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest.MerchantPaymentEndpoint_WithExpiredCardRequest_Returns_400&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22b14624_002Dcfb5_002D46b0_002Db3a3_002D64203d1887ed/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPaymentEndpoint_ForExistingPayment_Returns_200 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.UnitTests.Domain.CardTests.IsExpired_ReturnsTrue_When_ExpiryMonth_And_Year_AreInThePast&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.UnitTests.Domain.CardTests.IsExpired_ReturnsFalse_When_ExpiryMonth_And_Year_AreCurrentMonth&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.UnitTests.Domain.CardTests.IsExpired_ReturnsFalse_When_ExpiryMonth_And_Year_AreInTheFuture&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.UnitTests.Domain.PaymentTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFolder&gt;F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8/d:ApiInMemoryTests&lt;/ProjectFolder&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=256c7ad2_002D69ee_002D4e1f_002D9285_002D1b238355147a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200 #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.HeartBeatComponentTest.MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4191e016_002Df031_002D49ad_002D819c_002Dd10979718aef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GatewayApiInMemoryTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.GatewayApiInMemoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=623cb473_002Da6cd_002D4fc2_002Dba6f_002D369114db25fe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithExpiredCardRequest_Returns_400" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest.MerchantPaymentEndpoint_WithExpiredCardRequest_Returns_400&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=719d5efb_002Da6f8_002D4f27_002D8eef_002D4d7fc1cdc0f7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ComponentTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7fea83fc_002D3c59_002D4050_002Dbf0a_002Dd1ae9b198dbe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithInvalidCardNumberRequest_Returns_400" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest.MerchantPaymentEndpoint_WithInvalidCardNumberRequest_Returns_400&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ffa98df_002D3ac6_002D48a6_002Dbf4e_002Df23ab181178f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_SuccessfullPaymentStatus" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest.MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_SuccessfullPaymentStatus&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest.MerchantPaymentEndpoint_WithInvalidCardNumberRequest_Returns_400&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest.MerchantPaymentEndpoint_WithInvalidCardNumberRequest_Returns_400&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest.MerchantPaymentEndpoint_WithExpiredCardRequest_Returns_400&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest.MerchantPaymentEndpoint_WithExpiredCardRequest_Returns_400&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/And&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af188363_002D4906_002D4bb7_002D88a4_002D2cdbac8e5814/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200 #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest.MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba2decee_002D6d95_002D43fd_002Db9d4_002D7b9d1faebcb5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200 #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.HeartBeatComponentTest.MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bac9eb0e_002Da193_002D466e_002Db125_002D24923ab7fcb4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetPaymentEndpoint_ForExistingPayment_Returns_200" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.HeartBeatComponentTest.GetPaymentEndpoint_ForExistingPayment_Returns_200&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca2e658b_002D151f_002D4706_002Db1a6_002D8b7f30ed0394/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.HeartBeatComponentTest.MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e5cda9f2_002Da983_002D453e_002D9574_002D77f385593909/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.ComponentTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/And&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e6b6d573_002D0b20_002D4856_002Db59b_002Ddbcba9b61148/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.HeartBeatComponentTest.MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f718050c_002Dec58_002D45f1_002Da37f_002D810068167bc0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F821A0FB-C235-4BFF-8A73-4D0E4E08F6D8::.NETCoreApp,Version=v3.1::PaymentGateway.Tests.HeartBeatComponentTest.MerchantPaymentEndpoint_WithValidPaymentRequest_Returns_200&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

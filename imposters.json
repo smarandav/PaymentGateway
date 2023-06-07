@@ -1,0 +1,32 @@
+{
+  "imposters": [
+    {
+      "protocol": "http",
+      "port": 4545,
+      "name": "BarclaysApi",
+      "recordRequests": false,
+      "stubs": [
+        {
+          "predicates": [
+            {
+              "matches": {
+                "path": "/payment",
+                "method": "POST"
+              },
+              "caseSensitive": false
+            }
+          ],
+          "responses": [
+            {
+              "is": {
+                "statusCode": 200,
+                "body": "{ \"StatusCode\": \"Success\" }",
+                "_mode": "text"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
